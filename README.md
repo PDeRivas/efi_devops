@@ -6,6 +6,10 @@
 
 # Uso de la aplicacion
 
+# IMPORTANTE
+
+Hay 2 run.sh extras. Uno para windows y uno para ubuntu. Tendremos que borrar el run.sh por defecto y renombrar el de nuestro sistema operativo a simplemente run.sh
+
 Debe crearse un archivo .env basado en .env.sample
 
 Utilizamos el comando:
